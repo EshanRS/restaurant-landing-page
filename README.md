@@ -1,6 +1,4 @@
 <div align="center">
-  
-
   <br />
   <br />
 
@@ -42,7 +40,7 @@ git clone https://github.com/EshanRS/restaurant-landing-page.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://twitter.com/EshanRatnesh).
 
 ### License
 
